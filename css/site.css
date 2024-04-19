@@ -17,6 +17,7 @@ h1 {
   letter-spacing: 5px;
   word-spacing: 5px;
   font-size: 200%;
+  color: rgb(217, 0, 255);
 }
 
 /* the hashtag in a CSS selector selects an element by id, e.g., id="content" */
