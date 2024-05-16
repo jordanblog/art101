@@ -1,15 +1,61 @@
-#content { 
-    padding: 10px;
-    margin-bottom: 10px;
-    border: solid 10px; 
-    color: rgb(60, 200, 60);
-    background-color: rgb(32, 9, 121);
+/* original color sections */
+
+#content {
+    background-color: rgb(10, 124, 61);
+    border: solid 5px #4f12dd;
+
 }
 
-.minor-section {
+#challenge {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #12c8dd;
-    background-color: #780976;
+    border: solid 10px rgb(229, 130, 209); 
+    color: rgb(10, 124, 61);
+    background-color: rgb(229, 130, 209);
   }
-  
+
+  #problems {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 10px rgb(229, 130, 209); 
+    color: rgb(10, 124, 61);
+    background-color: rgb(229, 130, 209);
+  }
+
+  #reflection {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 10px rgb(229, 130, 209); 
+    color: rgb(10, 124, 61);
+    background-color: rgb(229, 130, 209);
+  }
+
+  #results {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 10px rgb(229, 130, 209); 
+    color: rgb(10, 124, 61);
+    background-color: rgb(229, 130, 209);
+  }
+
+  /* Changed Color Sections */
+
+#challengespecial {
+    background-color: rgb(125, 125, 239);
+    color: rgb(24, 24, 226);
+}
+
+#problemsspecial {
+    background-color: rgb(151, 226, 151);
+    color:rgb(4, 50, 25);
+}
+
+#reflectionspecial {
+    background-color: rgb(175, 112, 237);
+    color:rgb(68, 17, 117);
+}
+
+#resultsspecial {
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 174, 255);
+}
