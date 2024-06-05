@@ -1,0 +1,51 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: rgb(230, 101, 230);
+    color: black;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: left;
+}
+
+input[type="number"],
+input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+#max {
+    border: 2px solid rgb(190, 96, 214);
+    padding: 5px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: rgb(229, 62, 229);
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #dab3ff; 
+}
+
+#output {
+    margin-top: 20px;
+}
+
+body {
+    background-color: rgb(216, 142, 229);
+}
+   
+
