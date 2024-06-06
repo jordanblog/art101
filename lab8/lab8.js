@@ -15,13 +15,13 @@ var result = array.map(myCalculation);
 // should return [80, 24, 120, 30, 50, 672]
 console.log("Test array", result);
 
-var result = array.map(myCalculation(x) {
-    return: x * 2;
+var result = array.map(myCalculation(x) ,{
+    return: x * 2,
 })
 // should return [80, 24, 120, 30, 50, 672]
 
-var result = array.map(myCalculation(x) {
-    return: x * 10;
+var result = array.map(myCalculation(x) ,{
+    return: x * 10,
 })
 // should return [400, 120, 600, 150, 250, 3360]
 console.log("My array * (x)", result);
